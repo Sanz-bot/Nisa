@@ -1,9 +1,9 @@
 
-const RBSBOT = '👾RIBASBOT👾'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/rbs.420'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6289655478810'; // Nomor whatsapplu cok
+const RBSBOT = '👾BOT SANZ👾'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/iksanzz_nation'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6285771853430'; // Nomor whatsapplu cok
 const aktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/KWl3xonotUqHkEZwYQrdc1'; // OFFICIAL GRUP LU 1
+const groupwa = 'https://chat.whatsapp.com/K5YO1nq0EXL9uDrJ1wDhL9'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCVoeo63MfuTBPXlbj-ldX3Q'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
